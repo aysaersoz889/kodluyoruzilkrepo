@@ -22,6 +22,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-[Aysa Ersoz Patika.dev Link] (https://app.patika.dev/ayssaersoz)
 
 ![Proje Resmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+
+[Aysa Ersoz Patika Link](https://app.patika.dev/ayssaersoz)
